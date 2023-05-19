@@ -1,6 +1,6 @@
 # dash_client
 
-In progress project using mern stack. This repo is front end only.
+In progress project using mern stack. This repo is front end only (server repo is privated).
 
 
 # Tech
